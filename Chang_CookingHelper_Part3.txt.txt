@@ -1,0 +1,7 @@
+Video link: https://www.screencast.com/t/lWeOkSzzYerJ
+Name: Zhixing Chang
+title: Cooking Helper
+Project description: Website that provides cooking recipes for people who loves cooking, 
+	and people can also view cooking recipes on this website.
+What to do: Complete basic features for every pages, complete the login page. 
+	    Try to connect the control (servlet) and model (dababase) to the view(UI).
