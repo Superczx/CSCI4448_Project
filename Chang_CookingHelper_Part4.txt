@@ -1,0 +1,9 @@
+Video link: https://www.screencast.com/t/Uu9AjEIvok1
+Name: Zhixing Chang
+Project description: Website that provides cooking recipes for people who loves cooking, 
+	and people can also view cooking recipes on this website.
+What to do: Complete login page, account page, about us page. Have database ready.
+		After getting the database, it should get data from user (create recipe page)
+		and the recipe page will get data from database, so there will be tons of recipe pages in the future
+		connect the control (servlet) and model (dababase) to the view(UI), I have done some of it, and i will finish this for next time. 
+		Make a better UI for the whole website, so that the website will be much prettier. 
