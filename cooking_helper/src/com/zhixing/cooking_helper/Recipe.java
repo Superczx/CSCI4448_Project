@@ -10,19 +10,7 @@ public class Recipe {
 	private String timeCreated;
 	private int rate;
 	private boolean ifPublic;
-	public Recipe(int id, String recipeName, String ingredient, double amount, String desc, String photo,
-			String timeCreated, int rate, boolean ifPublic) {
-		this.id = id;
-		this.recipeName = recipeName;
-		this.ingredient = ingredient;
-		this.amount = amount;
-		this.desc = desc;
-		this.photo = photo;
-		this.timeCreated = timeCreated;
-		this.rate = rate;
-		this.ifPublic = ifPublic;
-		
-	}
+	
 	public int getId() {
 		return id;
 	}
